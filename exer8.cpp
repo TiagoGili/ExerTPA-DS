@@ -24,5 +24,7 @@ int main(){
 	
 	media = (n1 + n2 + n3 + n4) / 4;
 	
-	printf("A média final é %i", media);
+	printf("A média final é %i \n", media);
+	
+	system ("pause");
 }

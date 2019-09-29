@@ -17,9 +17,10 @@ int main(){
 	scanf("%i", &n);
 
 	if(n % 2 == 0){
-		printf("O número é PAR");
+		printf("O número é PAR \n");
 	}
 	else{
-		printf("O número é ÍMPAR");
+		printf("O número é ÍMPAR \n");
 	}	
+	system ("pause");
 }

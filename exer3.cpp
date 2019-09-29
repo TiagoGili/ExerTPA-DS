@@ -18,5 +18,7 @@ int main(){
 	
 	area = (diametro * pi);
 	
-	printf("A área do círculo é %i", area);
+	printf("A área do círculo é %i \n", area);
+	
+	system ("pause");
 }

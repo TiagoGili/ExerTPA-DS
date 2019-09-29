@@ -21,15 +21,16 @@ int main(){
 	scanf("%i", &n3);
 	
 	if(n1 > n2 and n1 > n3){
-		printf("O PRIMEIRO número é maior");
+		printf("O PRIMEIRO número é maior \n");
 	}
 	else if(n2 > n1 and n2 > n3){
-		printf("O SEGUNDO número é maior");
+		printf("O SEGUNDO número é maior \n");
 	}
 	else if(n3 > n1 and n3 > n2){
-		printf("O TERCEIRO número é maior");
+		printf("O TERCEIRO número é maior \n");
 	}
 	else{
-		printf("Os números são IGUAIS");
-	}  
+		printf("Os números são IGUAIS \n");
+	}
+	system ("pause");  
 }

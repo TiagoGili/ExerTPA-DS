@@ -18,9 +18,10 @@ int main(){
 	
 	if(n > 5 and n < 20){
 		cubo = n * n * n;
-		printf("O número ao cubo é %i", cubo);
+		printf("O número ao cubo é %i \n", cubo);
 	}
 	else{
-		printf("O número digitado não está dentro dos requisitos");
+		printf("O número digitado não está dentro dos requisitos \n");
 	}
+	system ("pause");
 }

@@ -21,10 +21,11 @@ main(){
 	
 	if(mf >= 7){
 		printf("O(A) %s", nome);
-		printf(" foi APROVADO(A)");
+		printf(" foi APROVADO(A) \n");
 	}
 	else{
 		printf("O(A) %s", nome);
-		printf(" foi REPROVADO(A)");
+		printf(" foi REPROVADO(A) \n");
 	}	
+	system ("pause");
 }

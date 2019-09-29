@@ -23,5 +23,7 @@ int main(){
 	resto = dividendo - vezes;
 	
 	printf("O quociente é %i", quociente);
-	printf(" e o resto é %i", resto);
+	printf(" e o resto é %i \n", resto);
+	
+	system ("pause");
 }

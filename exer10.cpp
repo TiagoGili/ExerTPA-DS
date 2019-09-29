@@ -19,5 +19,7 @@ int main(){
 	if(n > 100){
 		n = n + 150;
 	}
-	printf("O valor do número é %i", n);
+	printf("O valor do número é %i \n", n);
+	
+	system ("pause");
 }

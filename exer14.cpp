@@ -19,12 +19,13 @@ int main(){
 	scanf("%i", &n2);
 	
 	if(n1 > n2){
-		printf("O PRIMEIRO número é maior");
+		printf("O PRIMEIRO número é maior \n");
 	}
 	else if(n2 > n1){
-		printf("O SEGUNDO número é maior");
+		printf("O SEGUNDO número é maior \n");
 	}
 	else{
-		printf("Os números são IGUAIS");
-	}  
+		printf("Os números são IGUAIS \n");
+	}
+	system ("pause");  
 }

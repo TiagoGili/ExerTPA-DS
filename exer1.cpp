@@ -20,6 +20,8 @@ int main(){
 	
 	area = (base * altura);
 	
-	printf("A área do retângulo é %i", area);
+	printf("A área do retângulo é %i \n", area);
+	
+	system ("pause");
 }
 

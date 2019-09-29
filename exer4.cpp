@@ -23,5 +23,7 @@ int main(){
 	soma = n1 + n2 + n3;
 	quadrado = soma * soma;
 	
-	printf("O quadrado da soma dos números é %i", quadrado);
+	printf("O quadrado da soma dos números é %i \n", quadrado);
+	
+	system ("pause");
 }

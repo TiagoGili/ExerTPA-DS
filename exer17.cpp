@@ -23,12 +23,13 @@ int main(){
 	scanf("%i", &id);
 	
 	if(id >= 5 and id <= 11){
-		printf("A categoria é INFANTIL");
+		printf("A categoria é INFANTIL \n");
 	}
 	else if(id >= 12 and id <= 17){
-		printf("A categoria é JUVENIL");
+		printf("A categoria é JUVENIL \n");
 	}
 	else if(id >= 18){
-		printf("A categoria é ADULTO");
+		printf("A categoria é ADULTO \n");
 	}
+	system ("pause");
 }

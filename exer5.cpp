@@ -23,5 +23,7 @@ int main(){
 	pterre = compri * larg;
 	total = pterre * mq;
 	
-	printf("O valor total do terreno é %i", total);
+	printf("O valor total do terreno é %i \n", total);
+	
+	system ("pause");
 }

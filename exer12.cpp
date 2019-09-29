@@ -17,9 +17,10 @@ int main(){
 	scanf("%i", &n);
 	
 	if(n > 0){
-		printf("O número é POSITIVO");
+		printf("O número é POSITIVO \n");
 	}
 	else{
-		printf("O número é NEGATIVO");
-	}  
+		printf("O número é NEGATIVO \n");
+	}
+	system ("pause");  
 }

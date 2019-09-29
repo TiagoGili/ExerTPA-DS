@@ -23,5 +23,7 @@ main(){
 	
 	presta = v + (v * (tax / 100) * tem);
 	
-	printf("O valor final da prestação é %f", presta);
+	printf("O valor final da prestação é %f \n", presta);
+	
+	system ("pause");
 }

@@ -20,5 +20,7 @@ main(){
 	
 	salafi = sala + sala * (porcenau / 100);
 	
-	printf("O salário final do funcionário é %f", salafi);
+	printf("O salário final do funcionário é %f \n", salafi);
+	
+	system ("pause");
 }

@@ -25,5 +25,7 @@ int main(){
 	b = c;
 	
 	printf("Os valores trocados são A = %i", a);
-	printf(" e B = %i", b);
+	printf(" e B = %i \n", b);
+	
+	system ("pause");
 }
