@@ -2,6 +2,7 @@
 Função: Verificar se um númeor é maior que 5 e menor que 20, se sim mostre seu cubo
 Autor: Tiago Gili Lopes
 Data de Criação: 28/09/2019
+Data de Modificação: 29/09/2019
 */
 
 #include <stdio.h>

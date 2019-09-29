@@ -2,6 +2,7 @@
 Função: Leia o nome de um aluno e sua média final
 Autor: Tiago Gili Lopes
 Data de Criação: 28/09/2019
+Data de Modificação: 29/09/2019
 */
 
 #include <stdio.h>

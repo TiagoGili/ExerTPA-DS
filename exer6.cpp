@@ -2,6 +2,7 @@
 Função: Calcular o valor de uma prestação em atraso
 Autor: Tiago Gili Lopes
 Data de Criação: 27/09/2019
+Data de Modificação: 29/09/2019
 */
 
 #include <stdio.h>

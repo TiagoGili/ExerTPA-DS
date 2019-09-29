@@ -2,6 +2,7 @@
 Função: Colocar três números inteiros em ordem crescente
 Autor: Tiago Gili Lopes
 Data de Criação: 28/09/2019
+Data de Modificação: 29/09/2019
 */
 
 #include <stdio.h>
